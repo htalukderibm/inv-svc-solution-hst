@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: inv-bff-solution-hst
+description: Chart to configure ArgoCD with the inv-bff-solution-hst project and its applications

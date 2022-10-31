@@ -1,0 +1,3 @@
+global: {}
+inv-bff-solution-hst:
+  replicaCount: 1
